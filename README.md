@@ -8,7 +8,7 @@
 
 # Jetpoint Template
 
-An example of a simple wrapper I wrote for Jetty to serve endpoints. I've descided to call it "Jetpoint". Sounds cool,
+An example of a simple wrapper I wrote for Jetty to serve endpoints. I've decided to call it "Jetpoint". Sounds cool,
 right?
 
 ## Features
